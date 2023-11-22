@@ -119,5 +119,3 @@ document
 	.addEventListener("mouseleave", () => {
 		tl.resume();
 	});
-
-tl.pause();
