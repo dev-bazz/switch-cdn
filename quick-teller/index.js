@@ -119,3 +119,5 @@ document
 	.addEventListener("mouseleave", () => {
 		tl.resume();
 	});
+
+// quick-teller - slider
